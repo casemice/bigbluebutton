@@ -1,4 +1,4 @@
-BigBlueButton
+BigBlueButton (Casemice edition Branch)
 =============
 BigBlueButton is an open source web conferencing system.  
 
